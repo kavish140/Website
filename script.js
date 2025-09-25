@@ -1,3 +1,4 @@
+
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     // Get the button element
@@ -24,3 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
         container.style.transform = 'translateY(0)';
     }, 100);
 });
+=======
+function greet() {
+  alert("Welcome to my GitHub website!");
+}
